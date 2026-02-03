@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="1024" height="338" alt="image" src="https://github.com/user-attachments/assets/9a8f8864-38d9-4f2d-8864-e341a3ac3119" width="100%" alt="IT Groceries Shop Banner" />
+<br/><br/>
+
 # 🛒 IT Groceries Shop
 ### Your Trusted IT Solutions & Automation Scripts
 
@@ -29,20 +32,20 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itgroceries-sudo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itgroceries-sudo&layout=compact&theme=dark"/>
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itgroceries-sudo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="itgroceries-sudo's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itgroceries-sudo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
 
 ### 📫 Connect with Me
 <a href="https://facebook.com/Adm1n1straTOE">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
-<a href="https://youtube.com/@YourChannel">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<a href="https://github.com/itgroceries-sudo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
