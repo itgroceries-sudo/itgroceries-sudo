@@ -32,10 +32,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itgroceries-sudo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="itgroceries-sudo's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itgroceries-sudo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=itgroceries-sudo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="itgroceries-sudo's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itgroceries-sudo&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"/>
 </p>
 
 ---
@@ -43,6 +41,9 @@
 ### 📫 Connect with Me
 <a href="https://facebook.com/Adm1n1straTOE">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://youtube.com/@itgroceries">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube IT Groceries" />
 </a>
 <a href="https://github.com/itgroceries-sudo">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
